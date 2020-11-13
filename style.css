@@ -1,0 +1,35 @@
+@font-face {
+    font-family: "neucha";
+    src: url(Neucha.ttf) 
+}
+
+@font-face {
+    font-family: "pacifico";
+    src: url(Pacifico-Regular.ttf)
+}
+
+#titre {
+    color: #5f021f;
+    font-family: "pacifico";
+}
+
+#image {
+    width: 100%;
+}
+
+#text {
+    font-family: "neucha";
+}
+
+#nbr_caneles {
+    font-family: "neucha";
+    color: #a47;
+}
+
+#buy_oven {
+    font-family: "neucha";
+}
+
+#buy {
+    font-family: "neucha";
+}
